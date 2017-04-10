@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{510FE198-DAE4-46B9-891B-240850891874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Data", "Weather.Data3\Weather.Data.csproj", "{BF0849BE-3B4A-4EEE-8A67-35D063D3E7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather.Common", "Weather.Common\Weather.Common.csproj", "{2301056E-331B-4274-B832-3584718B92E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2301056E-331B-4274-B832-3584718B92E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2301056E-331B-4274-B832-3584718B92E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2301056E-331B-4274-B832-3584718B92E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2301056E-331B-4274-B832-3584718B92E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510FE198-DAE4-46B9-891B-240850891874}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BF0849BE-3B4A-4EEE-8A67-35D063D3E7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0849BE-3B4A-4EEE-8A67-35D063D3E7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0849BE-3B4A-4EEE-8A67-35D063D3E7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0849BE-3B4A-4EEE-8A67-35D063D3E7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
